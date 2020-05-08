@@ -9,9 +9,9 @@
       {
         "date": "2020-04-29",
         "sha512sum": "7FCB8636A03A82D44DDAA7E3938EA588ABCBEFA8375CAD6FD391118755AFCD591B54700F7A82840A4DA92A721A260414B997E6886D8065A8B7C6720DF9B2FB6B",
-        "version": "5.14.0",
+        "version": "0.0.2",
         "url": "https://github.com/zsmith93012/custom-plugins/blob/master/release/zulrah-0.0.2.jar?raw=true",
-        "requires": "0.0.2"
+        "requires": "0.0.1"
       }
     ]
   }]
